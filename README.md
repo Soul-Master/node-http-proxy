@@ -1,2 +1,8 @@
 # node-http-proxy
-Proxy network to
+
+To create local server, execute the following code.
+```
+npm start
+```
+
+http://localhost:3000/proxy/api/user?domain=reqres.in
